@@ -2,3 +2,4 @@ Archivo del proyecto pasteleria
 Ahora cambio esto
 Y quito algo y pongo esto
 Otro añadido
+Nuevo añadido
