@@ -1,2 +1,3 @@
 Archivo del proyecto pasteleria
-Una línea
+Ahora añado esto
+Y quito algo y pongo esto
